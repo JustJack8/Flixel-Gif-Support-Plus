@@ -1,4 +1,4 @@
-package flixel.system;
+package gif;
 
 import flixel.util.typeLimit.OneOfThree;
 import haxe.io.Bytes;

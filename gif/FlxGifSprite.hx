@@ -1,4 +1,4 @@
-package flixel;
+package gif;
 
 import com.yagp.GifDecoder;
 import com.yagp.Gif;
