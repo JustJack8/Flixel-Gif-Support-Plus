@@ -18,7 +18,7 @@ Next, in your Project.XML add these lines of code under your libaries
 ```
 
 After that, import the FlxWindowModifier from this repository to yours.
-```
+```haxe
 import gif.FlxGifSprite;
 ```
 
