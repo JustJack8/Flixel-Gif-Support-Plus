@@ -29,7 +29,7 @@ gif = new FlxGifSprite('AssetPath', X, Y, Width, Height);
 add(gif);
 ```
 
-#For Friday Night Funkin
+# For Friday Night Funkin
 
 Create a folder called `gifs` in your `assets/preload` folder.
 
