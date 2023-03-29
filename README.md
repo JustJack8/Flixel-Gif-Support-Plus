@@ -17,7 +17,7 @@ Next, in your Project.XML add these lines of code under your libaries
 <haxelib name="yagp"/>
 ```
 
-After that, import the FlxWindowModifier from this repository to yours.
+After that, import the FlxGifSprite from this repository to yours.
 ```haxe
 import gif.FlxGifSprite;
 ```
