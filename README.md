@@ -41,13 +41,13 @@ inline static public function gif(key:String)
 }
 ```
 
-### Example use For FNF
+# Example use For FNF
 ```haxe
 var gif:FlxGifSprite;
 gif = new FlxGifSprite(Paths.gif('ImagePath'), X, Y, Width, Height);
 add(gif);
 ```
-# Keep in mind, this also extends to an FlxSprite so all the functions from there also apply to here (ScreenCenter, Alpha, etc)
+## Keep in mind, this also extends to an FlxSprite so all the functions from there also apply to here (ScreenCenter, Alpha, etc)
 
 ## Credits:
 * [JustJack] (https://twitter.com/Just_Jack6)
