@@ -31,7 +31,7 @@ add(gif);
 
 #For Friday Night Funkin
 
-Create a folder called gifsin your `assets/preload` folder.
+Create a folder called `gifs` in your `assets/preload` folder.
 
 Next, Put this along with the other inline functions in `Paths.hx`
 ```haxe
