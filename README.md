@@ -41,7 +41,7 @@ inline static public function gif(key:String)
 }
 ```
 
-# Example use For FNF
+### Example use For FNF
 ```haxe
 var gif:FlxGifSprite;
 gif = new FlxGifSprite(Paths.gif('ImagePath'), X, Y, Width, Height);
