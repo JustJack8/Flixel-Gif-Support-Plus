@@ -21,7 +21,7 @@ After that, import the FlxWindowModifier from this repository to yours.
 import gif.FlxGifSprite;
 ```
 
-#Example use(s)
+# Example use(s)
 ```
 var gif:FlxGifSprite;
 gif = new FlxGifSprite('AssetPath', X, Y, Width, Height);
